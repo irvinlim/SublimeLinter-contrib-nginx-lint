@@ -7,4 +7,4 @@ This linter plugin for SublimeLinter provides an interface to nginx-lint.
 Before this plugin will activate, you *must*
 follow the installation instructions here:
 
-https://github.com/Irvin Lim/SublimeLinter-contrib-nginx-lint
+https://github.com/irvinlim/SublimeLinter-contrib-nginx-lint
