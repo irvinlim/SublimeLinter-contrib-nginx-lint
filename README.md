@@ -1,7 +1,7 @@
 SublimeLinter-contrib-nginx-lint
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-nginx-lint.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-nginx-lint)
+[![Build Status](https://travis-ci.org/irvinlim/SublimeLinter-contrib-nginx-lint.svg?branch=master)](https://travis-ci.org/irvinlim/SublimeLinter-contrib-nginx-lint)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [nginx-lint][nginx-lint-homepage]. It will be used with files that have the `nginx` syntax, which requires [sublime-nginx][sublime-nginx-homepage] to be installed as well.
 
